@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    max-width: 1200px;
+    margin: 20px;
+    justify-content: center;
+}
+
+.inicio {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 35px;
+    padding-left: 5%;
+    padding-right: 1%;
+    font-weight: bold;
+}
+
+.cetal1{
+    width: 30%;
+}
+
+.primeraparte li{
+    display: inline-block;
+    padding: 0px 20px;
+    font-size: 20px;
+}
+
+.todo{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.imagen1{
+    width: 70%;
+    text-align: center;
+    flex-wrap: wrap;
+    display: inline;
+    border-radius: 15px;
+    
+}
+
+.primercuadro{
+   width: 30%;
+   margin: 5%;
+   padding-block: 40px;
+   border-radius: 30px;
+   background-color: #9ea8ff;
+   box-shadow: 0 0 7px #949393;
+}
+
+.nombre{
+    margin-top: 10px;
+}
+
+.carrera{
+    margin-top: 10px;
+}
+
+.nivel{
+    margin-top: 10px;
+}
+
+.gestion{
+    margin-top: 10px;
+}
+
+.contacto{
+    margin-top: 10px;
+}
+
+.correo{
+    margin-top: 10px;
+}
+
+.segundaparte{
+    width: 30%;
+    margin: 5%;
+    padding-block: 40px;
+    border-radius: 30px;
+    background-color: #9ea8ff;
+    box-shadow: 0 0 7px #949393;
+}

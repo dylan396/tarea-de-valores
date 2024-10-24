@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    max-width: 1200px;
+    margin: 20px;
+    justify-content: center;
+}
+
+.inicio {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 35px;
+    padding-left: 5%;
+    padding-right: 1%;
+    font-weight: bold;
+}
+
+.cetal1{
+    width: 30%;
+}
+
+.primeraparte li{
+    display: inline-block;
+    padding: 0px 20px;
+    font-size: 20px;
+}
+
+.todo{
+    text-justify: auto;
+    margin-top: 4%;
+}
+
+.todo h1{
+    text-align: center;
+}
+.todo h2{
+    margin-top: 40px;
+    text-align: center;
+}

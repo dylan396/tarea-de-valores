@@ -1,0 +1,238 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.titulo1{
+    font-size: 35px;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 35px;
+    padding-left: 5%;
+    padding-right: 1%;
+    font-weight: bold;
+}
+
+.cetal1{
+    width: 100px;
+}
+
+.logo1{
+    font-size: 50px;
+}
+
+.primeraparte li{
+    display: inline-block;
+    padding: 0px 20px;
+    font-size: 20px;
+}
+
+
+#imagen3{
+    width: 450px;
+    height: 600px;
+    float:right;
+    margin-right: auto;
+}
+
+
+.letras1{
+    background-color: #a429f7;
+    width:0 auto;
+    height:600px;
+}
+
+.letras2{
+    position: relative;
+    top: 180px;
+    width: 1000px;
+    font-size: 35px;
+    text-align: center;
+    color: #f7f7f7;
+}
+
+#valor{
+    font-size: 45px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    color: #003bfd;
+}
+
+.cuadrados{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    height: 400px;
+    background-color: #c3f2fdc4;
+
+}
+
+.cuadrado1{
+    width: 20%;
+    height: 300px;
+    margin: 100px;
+    padding-block: 40px;
+    border-radius: 30px;
+    box-shadow: 0 0 7px #949393;
+    background-image: linear-gradient(
+        #d781ff 105px,
+        #fff 100px
+    );
+}
+
+#image1{
+    width: 125px;
+    position: relative;
+    top: -10px;
+    left: 24%;
+    border-radius: 110px;
+}
+
+.letrasdeloscuadrados1{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.letros1{
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.cuadrado2{
+    width: 20%;
+    height: 300px;
+    margin: 40px;
+    padding-block: 40px;
+    border-radius: 30px;
+    box-shadow: 0 0 7px #949393;
+    background-image: linear-gradient(
+        #d781ff 105px,
+        #fff 100px
+    );
+}
+
+#image2{
+    width: 125px;
+    position: relative;
+    top: -20px;
+    left: 25%;
+    border-radius: 110px;
+}
+
+.letrasdeloscuadrados2{
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.letros2{
+    font-size: 13px;
+    margin: 10px;
+    display: flex;
+    text-align: center;
+}
+
+.otroscuadrados{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    height: 400px;
+    background-color: #f2b1ffc4;
+
+}
+
+.cuadrado5{
+    width: 20%;
+    height: 300px;
+    margin: 100px;
+    padding-block: 40px;
+    border-radius: 30px;
+    box-shadow: 0 0 7px #949393;
+    background-image: linear-gradient(
+        #62b9ff 105px,
+        #fff 100px
+    );
+}
+
+#image5{
+    width: 125px;
+    height: 125px;
+    position: relative;
+    top: -20px;
+    left: 25%;
+    border-radius: 110px;
+}
+
+.letrasdeloscuadrados5{
+    font-size: 10px;
+    display: flex;
+    text-align: center;
+    margin-left: 25px;
+}
+
+.letros5{
+    font-size: 11px;
+    text-align: center;
+    margin: 10px;
+}
+
+
+.cuadrado6{
+    width: 20%;
+    height: 300px;
+    margin: 40px;
+    padding-block: 40px;
+    border-radius: 30px;
+    box-shadow: 0 0 7px #949393;
+    background-image: linear-gradient(
+        #62b9ff 105px,
+        #fff 100px
+    );
+}
+
+#image6{
+    width: 125px;
+    position: relative;
+    top: -20px;
+    left: 24%;
+    border-radius: 110px;
+}
+
+.letrasdeloscuadrados6{
+    font-size: 7px;
+    display: flex;
+    justify-content: center;
+}
+
+.letros6{
+    font-size: 12px;
+    text-align: center;
+    margin: 10px;
+}
+
+#imagendelfinal{
+    width:100%;
+    height: 100%;
+}

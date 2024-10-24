@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.cetal1{
+    font-size: 35px;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 35px;
+    padding-left: 5%;
+    padding-right: 1%;
+    font-weight: bold;
+}
+
+.cetal1{
+    width: 100px;
+}
+
+.primeraparte li{
+    display: inline-block;
+    padding: 0px 20px;
+    font-size: 20px;
+}
+
+
+#imagen3{
+    width: 450px;
+    height: 600px;
+    float:right;
+    margin-right: auto;
+}
+
+
+.letras1{
+    background-color: #ffae35;
+    width:0 auto;
+    height:600px;
+}
+
+.letras2{
+    position: relative;
+    top: 180px;
+    width: 1000px;
+    font-size: 35px;
+    text-align: center;
+    color: #f7f7f7;
+}
+
+#valor{
+    font-size: 45px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    color: #003bfd;
+}
+
+.cuadrados{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    height: 450px;
+    background-color: #ffae35;
+
+}
+
+.cuadrado1{
+    width: 20%;
+    height: 400px;
+    margin: 100px;
+    padding-block: 40px;
+    border-radius: 30px;
+    box-shadow: 0 0 7px #949393;
+    background-image: linear-gradient(
+        #ff8b1e 105px,
+        #fff 100px
+    );
+}
+
+#image1{
+    width: 125px;
+    position: relative;
+    top: -10px;
+    left: 22%;
+    border-radius: 110px;
+}
+
+.letrasdeloscuadrados1{
+    font-size: 12px;
+    display: flex;
+    text-align: center;
+    margin: 10px;
+}
+
+.letros1 li{
+    font-size: 13px;
+    margin: 10px;
+    display: flex;
+    padding: 10px;
+}
+
+
+.cuadrado2{
+    width: 20%;
+    height: 400px;
+    margin: 100px;
+    padding-block: 40px;
+    border-radius: 30px;
+    box-shadow: 0 0 7px #949393;
+    background-image: linear-gradient(
+        #ffdb38 105px,
+        #fff 100px
+    );
+}
+
+#image2{
+    width: 125px;
+    position: relative;
+    top: -20px;
+    left: 23%;
+    border-radius: 110px;
+}
+
+.letrasdeloscuadrados2{
+    font-size: 10px;
+    display: flex;
+    margin: 10px;
+    text-align: center;
+}
+
+.letros2 li{
+    font-size: 13px;
+    margin: 10px;
+    display: flex;
+    padding: 10px;
+}
+
+#imagendelfinal{
+    width:100%;
+    height: 100%;
+}
